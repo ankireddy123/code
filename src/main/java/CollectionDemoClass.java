@@ -12,7 +12,7 @@ public class CollectionDemoClass {
     public Map<Integer,User> returnList() {
         //List<User> lu = new ArrayList<User>();
         Map<Integer,User> useDtls= new HashMap<Integer,User>();
-
+//test the git hub command
        for (int i=0; i <=10; i++)
        {
            User usr = new User("ankiredd"+ i, "23423", "aadsfe", "23423", "23423");
